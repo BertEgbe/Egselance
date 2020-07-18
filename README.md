@@ -1,6 +1,6 @@
                 TheSweatSpace 
- A workout space to carter to the needs of people interested in keeping up with their exercise routine. It's a place to train and stay fit, especially now when people are advised to seclude themselves indoors for days.
- Considering that we're now in a global pandemic, where social distancing is required to fend off the spread of the virus, I had that in mind while proceeding to build this site. 
+A workout space to carter to the needs of people interested in keeping up with their exercise routine. It's a place to train and stay fit, especially now when people are advised to seclude themselves indoors for days.
+Considering that we're now in a global pandemic, where social distancing is required to fend off the spread of the virus, I had that in mind while proceeding to build this site. 
 
 UX 
 This site is for everyone. Exercise is for everyone's benefit which serves a purpose of maintaining good health and overall welbeing.

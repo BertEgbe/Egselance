@@ -213,3 +213,30 @@ footer {
     padding: 0;
     margin: 0;
 }
+.button{type="submit"} {
+    margin-top: 13px;
+    margin-bottom: 18px;
+    color: #fafafa;
+    background-color: ##ffa500;
+ }
+/*---------Opening Form------------*/ 
+.menu-color-openings-hours {
+    font-family: "Exo", sans-serif;
+    font-weight: 290;
+    margin-top: 23px;
+    margin-bottom: 19px;
+}
+.center-form {
+    padding: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+} 
+/*----------Media Queries---------*/
+@media(min-width 992px) { 
+    .center-form {
+    padding: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
+
+}
